@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#body{
+    background-color: aliceblue;
+
+}
+.form1{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+}
+
+
+/* main-page  */
+/* .firstsec{
+   
+    width: 40%;
+}
+.secondsec{
+    background-color: rgb(164, 41, 148);
+    display: inline-block;
+    width: 60%;
+    height: 500px;
+}
+.card-center {
+    display: flex;
+    align-items: center;
+    
+  }
+  .card1{
+   border: 5;
+  }
+  .secondsec.box{
+    margin-top: 20px;
+    height: 100px;
+    width: 300px;
+    background-color: rgb(234, 0, 255);
+  }
+  #main-body{
+    background-color: brown;
+  } */
